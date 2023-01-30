@@ -1,0 +1,283 @@
+﻿To learn about increasing the verbosity of the NGen log files please see http://go.microsoft.com/fwlink/?linkid=210113
+05/16/2022 12:59:49.653 [5464]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:844
+05/16/2022 12:59:52.018 [5464]: NGen task completed successfully
+05/17/2022 13:31:32.731 [7144]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+05/17/2022 13:31:32.858 [7144]: NGen task completed successfully
+05/18/2022 08:51:34.064 [3952]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:888
+05/18/2022 08:51:34.175 [3952]: NGen task completed successfully
+05/19/2022 08:55:16.521 [14552]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:828
+05/19/2022 08:55:16.615 [14552]: NGen task completed successfully
+05/20/2022 08:58:29.775 [5964]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1008
+05/20/2022 08:58:29.869 [5964]: NGen task completed successfully
+05/23/2022 10:47:52.332 [12056]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:884
+05/23/2022 10:47:54.692 [12056]: NGen task completed successfully
+05/24/2022 12:51:01.387 [11744]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:868
+05/24/2022 12:51:01.557 [11744]: NGen task completed successfully
+05/25/2022 08:59:30.996 [13248]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:884
+05/25/2022 08:59:31.101 [13248]: NGen task completed successfully
+05/26/2022 09:51:42.591 [8036]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1464
+05/26/2022 09:51:42.701 [8036]: NGen task completed successfully
+05/27/2022 10:27:26.419 [9732]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:836
+05/27/2022 10:27:26.520 [9732]: NGen task completed successfully
+05/28/2022 09:46:33.805 [13860]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:816
+05/28/2022 09:46:33.899 [13860]: NGen task completed successfully
+05/30/2022 06:45:14.035 [14888]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1020
+05/30/2022 06:45:14.191 [14888]: NGen task completed successfully
+05/30/2022 09:03:51.225 [9076]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1392
+05/30/2022 09:03:51.319 [9076]: NGen task completed successfully
+05/31/2022 08:56:01.348 [8760]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+05/31/2022 08:56:01.459 [8760]: NGen task completed successfully
+06/01/2022 14:35:35.067 [14588]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:440
+06/01/2022 14:35:35.208 [14588]: NGen task completed successfully
+06/02/2022 11:49:41.186 [7860]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1124
+06/02/2022 11:49:41.280 [7860]: NGen task completed successfully
+06/07/2022 10:49:20.325 [4684]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1532
+06/07/2022 10:49:20.494 [4684]: NGen task completed successfully
+06/08/2022 10:52:49.660 [7636]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1432
+06/08/2022 10:52:49.783 [7636]: NGen task completed successfully
+06/09/2022 15:32:26.595 [12684]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1444
+06/09/2022 15:32:26.701 [12684]: NGen task completed successfully
+06/10/2022 11:58:23.977 [17904]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1424
+06/10/2022 11:58:24.071 [17904]: NGen task completed successfully
+06/14/2022 09:44:14.750 [1472]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1120
+06/14/2022 09:44:14.844 [1472]: NGen task completed successfully
+06/14/2022 10:53:36.980 [2476]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+06/14/2022 10:53:37.074 [2476]: NGen task completed successfully
+06/15/2022 12:11:14.514 [1280]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:796
+06/15/2022 12:11:14.627 [1280]: NGen task completed successfully
+06/16/2022 11:01:11.906 [3348]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1464
+06/16/2022 11:01:12.046 [3348]: NGen task completed successfully
+06/17/2022 10:51:05.033 [4184]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1488
+06/17/2022 10:51:05.162 [4184]: NGen task completed successfully
+06/18/2022 10:54:54.003 [12024]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1200
+06/18/2022 10:54:54.112 [12024]: NGen task completed successfully
+06/20/2022 14:14:46.939 [12136]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+06/20/2022 14:14:47.064 [12136]: NGen task completed successfully
+06/21/2022 15:19:15.100 [9876]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:860
+06/21/2022 15:19:15.257 [9876]: NGen task completed successfully
+06/22/2022 11:34:37.255 [13416]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+06/22/2022 11:34:37.380 [13416]: NGen task completed successfully
+06/23/2022 16:14:38.496 [1188]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1224
+06/23/2022 16:14:38.638 [1188]: NGen task completed successfully
+06/24/2022 11:02:52.846 [16520]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1484
+06/24/2022 11:02:53.003 [16520]: NGen task completed successfully
+06/27/2022 09:29:45.410 [11204]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+06/27/2022 09:29:45.535 [11204]: NGen task completed successfully
+06/27/2022 11:23:13.722 [29552]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:824
+06/27/2022 11:23:13.847 [29552]: NGen task completed successfully
+08/12/2022 09:32:04.979 [34948]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1056
+08/12/2022 09:32:05.104 [34948]: NGen task completed successfully
+08/12/2022 11:10:50.693 [35956]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1876
+08/12/2022 11:10:50.802 [35956]: NGen task completed successfully
+09/06/2022 13:04:10.438 [8980]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1456
+09/06/2022 13:04:10.548 [8980]: NGen task completed successfully
+09/07/2022 13:20:45.586 [10028]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1444
+09/07/2022 13:20:45.711 [10028]: NGen task completed successfully
+09/08/2022 14:13:58.922 [1132]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1452
+09/08/2022 14:13:59.032 [1132]: NGen task completed successfully
+09/09/2022 12:53:41.888 [10428]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+09/09/2022 12:53:42.013 [10428]: NGen task completed successfully
+09/12/2022 16:34:56.015 [14484]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1192
+09/12/2022 16:34:56.152 [14484]: NGen task completed successfully
+09/13/2022 13:16:54.406 [9812]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1092
+09/13/2022 13:16:54.544 [9812]: NGen task completed successfully
+09/14/2022 17:14:10.380 [11272]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1188
+09/14/2022 17:14:12.773 [11272]: NGen task completed successfully
+09/15/2022 12:52:19.580 [1372]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1468
+09/15/2022 12:52:21.940 [1372]: NGen task completed successfully
+09/16/2022 11:17:54.788 [3664]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1188
+09/16/2022 11:17:54.913 [3664]: NGen task completed successfully
+09/19/2022 13:59:13.851 [9760]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1404
+09/19/2022 13:59:14.021 [9760]: NGen task completed successfully
+09/21/2022 11:01:25.855 [7332]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:896
+09/21/2022 11:01:25.986 [7332]: NGen task completed successfully
+09/26/2022 16:00:09.408 [2168]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:776
+09/26/2022 16:00:09.611 [2168]: NGen task completed successfully
+09/27/2022 11:04:53.442 [16040]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1420
+09/27/2022 11:04:53.627 [16040]: NGen task completed successfully
+09/28/2022 14:29:36.028 [15868]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1488
+09/28/2022 14:29:36.136 [15868]: NGen task completed successfully
+09/30/2022 15:45:49.028 [7224]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1432
+09/30/2022 15:45:49.164 [7224]: NGen task completed successfully
+09/30/2022 15:51:11.818 [12108]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1428
+09/30/2022 15:51:11.907 [12108]: NGen task completed successfully
+10/01/2022 13:08:13.278 [11792]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1176
+10/01/2022 13:08:13.388 [11792]: NGen task completed successfully
+10/03/2022 09:00:07.271 [12448]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1168
+10/03/2022 09:00:07.396 [12448]: NGen task completed successfully
+10/03/2022 11:14:43.275 [1156]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1444
+10/03/2022 11:14:43.400 [1156]: NGen task completed successfully
+10/04/2022 14:42:43.491 [520]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+10/04/2022 14:42:43.600 [520]: NGen task completed successfully
+10/05/2022 13:28:01.325 [7796]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:824
+10/05/2022 13:28:01.419 [7796]: NGen task completed successfully
+10/06/2022 11:03:51.937 [7196]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1260
+10/06/2022 11:03:52.116 [7196]: NGen task completed successfully
+10/07/2022 10:59:46.891 [10428]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+10/07/2022 10:59:47.001 [10428]: NGen task completed successfully
+10/08/2022 12:48:26.270 [10404]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+10/08/2022 12:48:26.379 [10404]: NGen task completed successfully
+10/12/2022 09:48:18.487 [6672]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:776
+10/12/2022 09:48:18.659 [6672]: NGen task completed successfully
+10/12/2022 16:58:59.120 [8540]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1200
+10/12/2022 16:59:01.497 [8540]: NGen task completed successfully
+10/14/2022 11:47:36.614 [3888]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:920
+10/14/2022 11:47:36.756 [3888]: NGen task completed successfully
+10/15/2022 13:29:15.621 [13256]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1468
+10/15/2022 13:29:15.730 [13256]: NGen task completed successfully
+10/17/2022 10:21:47.758 [13980]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1500
+10/17/2022 10:21:47.899 [13980]: NGen task completed successfully
+10/17/2022 11:52:46.191 [1108]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1184
+10/17/2022 11:52:46.316 [1108]: NGen task completed successfully
+10/18/2022 11:20:55.445 [8056]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:992
+10/18/2022 11:20:55.570 [8056]: NGen task completed successfully
+10/19/2022 11:00:34.585 [4872]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+10/19/2022 11:00:34.705 [4872]: NGen task completed successfully
+10/20/2022 12:59:46.677 [3440]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1192
+10/20/2022 12:59:46.821 [3440]: NGen task completed successfully
+10/21/2022 14:52:20.160 [7224]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1400
+10/21/2022 14:52:20.344 [7224]: NGen task completed successfully
+10/22/2022 13:13:02.185 [10212]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1180
+10/22/2022 13:13:02.310 [10212]: NGen task completed successfully
+10/24/2022 10:48:08.596 [1420]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1432
+10/24/2022 10:48:08.814 [1420]: NGen task completed successfully
+10/25/2022 11:08:00.725 [20044]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1208
+10/25/2022 11:08:00.850 [20044]: NGen task completed successfully
+10/26/2022 16:49:10.596 [12460]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1204
+10/26/2022 16:49:10.752 [12460]: NGen task completed successfully
+10/27/2022 11:03:24.009 [14988]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:872
+10/27/2022 11:03:24.134 [14988]: NGen task completed successfully
+10/28/2022 13:07:19.796 [15464]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1184
+10/28/2022 13:07:19.921 [15464]: NGen task completed successfully
+10/29/2022 10:49:38.508 [9684]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1200
+10/29/2022 10:49:38.641 [9684]: NGen task completed successfully
+10/31/2022 09:29:27.554 [8548]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1484
+10/31/2022 09:29:27.856 [8548]: NGen task completed successfully
+10/31/2022 12:54:22.939 [7572]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1488
+10/31/2022 12:54:23.187 [7572]: NGen task completed successfully
+11/01/2022 10:58:31.048 [7340]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1488
+11/01/2022 10:58:31.188 [7340]: NGen task completed successfully
+11/08/2022 09:57:46.709 [12184]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1444
+11/08/2022 09:57:49.117 [12184]: NGen task completed successfully
+11/08/2022 10:52:26.883 [7152]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1376
+11/08/2022 10:52:27.041 [7152]: NGen task completed successfully
+11/09/2022 13:42:42.836 [2712]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:880
+11/09/2022 13:42:45.198 [2712]: NGen task completed successfully
+11/11/2022 09:32:58.536 [13512]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1456
+11/11/2022 09:32:58.685 [13512]: NGen task completed successfully
+11/11/2022 10:53:58.709 [2888]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+11/11/2022 10:53:58.821 [2888]: NGen task completed successfully
+11/12/2022 11:03:19.675 [5232]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:876
+11/12/2022 11:03:19.815 [5232]: NGen task completed successfully
+11/14/2022 09:40:28.023 [13800]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1428
+11/14/2022 09:40:28.148 [13800]: NGen task completed successfully
+11/14/2022 11:13:07.666 [13680]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1180
+11/14/2022 11:13:07.791 [13680]: NGen task completed successfully
+11/15/2022 14:24:38.257 [13584]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1200
+11/15/2022 14:24:38.380 [13584]: NGen task completed successfully
+11/16/2022 15:03:01.158 [8408]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1408
+11/16/2022 15:03:01.283 [8408]: NGen task completed successfully
+11/17/2022 12:29:04.541 [18272]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:860
+11/17/2022 12:29:04.666 [18272]: NGen task completed successfully
+11/18/2022 10:56:50.047 [3508]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1192
+11/18/2022 10:56:50.193 [3508]: NGen task completed successfully
+11/21/2022 10:21:42.815 [8552]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1192
+11/21/2022 10:21:42.955 [8552]: NGen task completed successfully
+11/21/2022 11:43:56.094 [7472]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+11/21/2022 11:43:56.204 [7472]: NGen task completed successfully
+11/22/2022 11:10:57.972 [7396]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:900
+11/22/2022 11:10:58.104 [7396]: NGen task completed successfully
+11/23/2022 13:21:06.182 [10660]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1188
+11/23/2022 13:21:06.314 [10660]: NGen task completed successfully
+11/24/2022 15:23:07.971 [3848]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1068
+11/24/2022 15:23:08.111 [3848]: NGen task completed successfully
+11/25/2022 14:40:46.563 [16572]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+11/25/2022 14:40:46.710 [16572]: NGen task completed successfully
+11/26/2022 13:32:14.109 [15972]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1192
+11/26/2022 13:32:14.218 [15972]: NGen task completed successfully
+11/28/2022 09:23:47.256 [13452]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1460
+11/28/2022 09:23:47.381 [13452]: NGen task completed successfully
+11/28/2022 14:15:23.178 [9176]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:828
+11/28/2022 14:15:23.287 [9176]: NGen task completed successfully
+11/29/2022 11:31:07.943 [5172]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1452
+11/29/2022 11:31:08.052 [5172]: NGen task completed successfully
+11/30/2022 14:10:33.564 [12556]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+11/30/2022 14:10:33.671 [12556]: NGen task completed successfully
+12/01/2022 13:15:15.442 [1864]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+12/01/2022 13:15:15.551 [1864]: NGen task completed successfully
+12/02/2022 13:21:56.796 [13852]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1152
+12/02/2022 13:21:56.921 [13852]: NGen task completed successfully
+12/03/2022 12:34:36.600 [15140]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1180
+12/03/2022 12:34:36.725 [15140]: NGen task completed successfully
+12/05/2022 12:00:58.140 [8084]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:836
+12/05/2022 12:00:58.265 [8084]: NGen task completed successfully
+12/06/2022 11:12:17.639 [4456]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1416
+12/06/2022 11:12:17.761 [4456]: NGen task completed successfully
+12/07/2022 13:32:55.596 [17832]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1124
+12/07/2022 13:32:55.793 [17832]: NGen task completed successfully
+12/08/2022 12:33:25.262 [2176]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+12/08/2022 12:33:25.403 [2176]: NGen task completed successfully
+12/09/2022 10:57:42.970 [10168]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:880
+12/09/2022 10:57:43.108 [10168]: NGen task completed successfully
+12/10/2022 13:41:36.105 [24104]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1204
+12/10/2022 13:41:36.230 [24104]: NGen task completed successfully
+12/12/2022 09:52:36.009 [15596]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1188
+12/12/2022 09:52:36.166 [15596]: NGen task completed successfully
+12/12/2022 12:42:47.736 [3148]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1476
+12/12/2022 12:42:48.045 [3148]: NGen task completed successfully
+12/13/2022 13:33:02.381 [17472]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1436
+12/13/2022 13:33:02.522 [17472]: NGen task completed successfully
+12/16/2022 10:32:56.181 [3152]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1336
+12/16/2022 10:32:58.561 [3152]: NGen task completed successfully
+12/16/2022 10:54:21.564 [5000]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1140
+12/16/2022 10:54:21.681 [5000]: NGen task completed successfully
+12/17/2022 11:25:01.155 [5836]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1372
+12/17/2022 11:25:01.286 [5836]: NGen task completed successfully
+12/19/2022 08:33:02.642 [13112]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:884
+12/19/2022 08:33:03.001 [13112]: NGen task completed successfully
+12/19/2022 11:58:15.092 [13244]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1352
+12/19/2022 11:58:15.217 [13244]: NGen task completed successfully
+12/21/2022 12:51:28.770 [15192]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:876
+12/21/2022 12:51:28.916 [15192]: NGen task completed successfully
+12/23/2022 12:39:55.241 [1168]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1404
+12/23/2022 12:39:55.476 [1168]: NGen task completed successfully
+12/24/2022 13:30:18.890 [9456]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:876
+12/24/2022 13:30:19.061 [9456]: NGen task completed successfully
+12/26/2022 09:12:39.337 [11288]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1196
+12/26/2022 09:12:39.462 [11288]: NGen task completed successfully
+12/26/2022 09:22:36.208 [9796]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1468
+12/26/2022 09:22:36.302 [9796]: NGen task completed successfully
+12/26/2022 15:54:41.778 [15860]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1440
+12/26/2022 15:54:41.918 [15860]: NGen task completed successfully
+12/27/2022 10:54:04.655 [10472]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1452
+12/27/2022 10:54:04.780 [10472]: NGen task completed successfully
+12/28/2022 12:18:24.587 [12220]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:876
+12/28/2022 12:18:24.724 [12220]: NGen task completed successfully
+12/29/2022 14:12:18.446 [8084]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:328
+12/29/2022 14:12:19.008 [8084]: NGen task completed successfully
+01/16/2023 09:31:51.826 [8408]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1504
+01/16/2023 09:31:51.983 [8408]: NGen task completed successfully
+01/16/2023 11:28:01.327 [7528]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1056
+01/16/2023 11:28:01.440 [7528]: NGen task completed successfully
+01/17/2023 11:06:57.993 [16820]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1620
+01/17/2023 11:06:58.112 [16820]: NGen task completed successfully
+01/18/2023 13:49:22.441 [9408]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1396
+01/18/2023 13:49:22.613 [9408]: NGen task completed successfully
+01/19/2023 13:52:03.858 [10672]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1732
+01/19/2023 13:52:04.014 [10672]: NGen task completed successfully
+01/20/2023 12:28:35.469 [6060]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1104
+01/20/2023 12:28:35.576 [6060]: NGen task completed successfully
+01/23/2023 09:19:08.211 [13108]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1668
+01/23/2023 09:19:08.335 [13108]: NGen task completed successfully
+01/23/2023 10:58:10.742 [13984]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1212
+01/23/2023 10:58:10.855 [13984]: NGen task completed successfully
+01/24/2023 13:09:24.100 [8088]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1408
+01/24/2023 13:09:24.225 [8088]: NGen task completed successfully
+01/25/2023 10:56:28.558 [14652]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1396
+01/25/2023 10:56:28.679 [14652]: NGen task completed successfully
+01/26/2023 10:49:45.417 [6920]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1760
+01/26/2023 10:49:45.526 [6920]: NGen task completed successfully
+01/27/2023 12:28:33.900 [288]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1712
+01/27/2023 12:28:34.009 [288]: NGen task completed successfully
+01/30/2023 09:56:53.743 [9468]: NGen Task starting, command line: "C:\Windows\Microsoft.NET\Framework\v4.0.30319\NGenTask.exe" /StopEvent:1448
+01/30/2023 09:56:53.868 [9468]: NGen task completed successfully

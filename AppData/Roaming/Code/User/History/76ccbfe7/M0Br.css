@@ -1,0 +1,182 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+    font-family: georgia;
+    src: url(font/georgia.ttf);
+}
+@font-face {
+    font-family: SourceSansPro-Regular;
+    src: url(font/SourceSansPro-Regular.ttf);
+}
+.container {
+  margin: 0 auto;
+  width: 1672px;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
+  a {
+    text-decoration: none; /*убираем подчеркивание текста ссылок*/
+    color: #000000;
+    font-family: SourceSansPro-Regular;
+  }
+  li {
+    float:left; /*Размещаем список горизонтально для реализации меню*/
+    margin-right: 30px; /*Добавляем отступ у пунктов меню*/
+  }
+  .menu{
+    font-size: 16px;
+    list-style: none;
+  }
+  .logo{
+    display: flex;
+    width: 205px;
+    height: 50px;
+    margin-left: 858px;
+    margin-top: 44px;    
+    background: url(img/logo.png);
+    background-size: cover;
+  }
+  .glav{
+    width: 1672px;
+    height: 941px;
+    margin-left: 124px;
+    margin-top: 43px;  
+  }
+  .glav img{
+    width: 1672px;
+    height: 941px;
+    margin: 0 auto;
+  }
+  .glav .button{
+    display: flex;
+    width: 300px;
+    height: 46px;
+    margin: 0 auto;
+    margin-top: 990px;
+
+    /* Rectangle 1 */
+    box-sizing: border-box;   
+    border: 0.5px solid #000000;
+    justify-content: center;
+    align-items: center;
+  }
+  .mw{
+      display: flex;
+      justify-content: space-evenly;
+  }
+  .MENS__NEW__ARRIVALS{
+    width: 702px;
+    height: 884px;
+    margin-top: 150px;
+    background: url(img/MENS\ NEW\ ARRIVALS.png);
+  }
+  .MENS__NEW__ARRIVALS .button{
+    display: flex;
+    width: 300px;
+    height: 46px;
+    margin: 0 auto;
+    margin-top: 934px;
+
+    /* Rectangle 1 */
+    box-sizing: border-box;   
+    border: 0.5px solid #000000;
+    justify-content: center;
+    align-items: center;
+  }
+  .WOMENS__NEW__ARRIVALS{
+    width: 702px;
+    height: 884px;
+    margin-top: 150px;
+    background: url(img/WOMEN\ NEW\ ARRIVALS.png); 
+  }
+  .WOMENS__NEW__ARRIVALS .button{
+    display: flex;
+    width: 300px;
+    height: 46px;
+    margin: 0 auto;
+    margin-top: 934px;
+
+    /* Rectangle 1 */
+    box-sizing: border-box;   
+    border: 0.5px solid #000000;
+    justify-content: center;
+    align-items: center;
+  }
+  .NEW__ARRIVALS{
+    display: flex;
+    width: 1672px;
+    height: 940px;
+    margin: 0 auto;
+    margin-top: 146px;
+    background: url(img/NEW\ ARRIVALS.png);
+  }
+  .NEW__ARRIVALS .button{
+    display: flex;
+    width: 300px;
+    height: 46px;
+    margin: 0 auto;
+    margin-top: 990px;
+
+    /* Rectangle 1 */
+    box-sizing: border-box;   
+    border: 0.5px solid #000000;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    line-height: 20px;
+  }
+.copyright{
+    width: 426px;
+    height: 20px;
+    margin: 0 auto;
+    margin-top: 150px;
+    font-family: SourceSansPro-Regular;
+    font-size: 16px;
+}
+footer p{
+  color: #ffffff;
+}
+.glav__1{
+  width: 1210px;
+  height: 536px;
+  margin-left: 124px;
+}
+.glav__2 h1{
+  width: 400px;
+  display: flex;
+  font-family: georgia;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  color: #000000;
+  margin-top: 250px;
+  margin-left: 80px;
+}
+.homepage{
+  margin-top: 57px;
+  display: flex;
+  width: 1581px;
+  height: 536px;
+}
+.catalog{
+  display: flex;
+  margin: 0 auto;
+  width: 1516px;
+  height: auto;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 100px;
+  text-align: center;
+  font-family: SourceSansPro-Regular;
+  flex-wrap: wrap;
+}
+.card{
+  margin-bottom: 60px;
+}

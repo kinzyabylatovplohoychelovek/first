@@ -1,0 +1,85 @@
+
+#slider-wrap {
+    margin: 0px auto;
+}
+
+#slider {
+    width: 1050px;
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+    border: #fafafa solid 10px;
+    margin: 0 auto;
+}
+
+.slide {
+    width:1280px;
+    height: 100%; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    padding-top: 40px;
+}
+    .slide h1{
+        font-family: 'Segoe UI';
+        position: absolute;
+        color: #000;
+        font-size: 25px;
+        text-align: left;
+        left: 25%;
+        top: 45%;
+        transform: translate(-50%, -50%);}
+.Radio-But {
+    margin-top:10px;
+    text-align:center;
+}
+
+.Radio-But .ctrl-select {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background: url("radioBg.png") center bottom no-repeat;
+    margin: 2px;
+    overflow: hidden;
+    text-indent: -99999px;
+}
+
+.Radio-But .ctrl-select:hover {
+    cursor: pointer;
+    background-position: center center;
+}
+
+.Radio-But .ctrl-select.active{
+    background-position: center top;
+}
+
+#prewBut, #nextBut{
+    display: block;
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    text-indent: -99999px;
+    background: url("arrowBg.png") left center no-repeat;
+    opacity: 0.5;
+    z-index: 3;
+    outline: none !important;
+}
+
+#prewBut { 
+    left: 10px;
+}
+
+#nextBut {
+    right: 10px;
+    background: url("arrowBg.png") right center no-repeat;
+}
+
+#prewBut:hover, #nextBut:hover {
+    opacity: 1;
+}
+@media(max-width:1024px){#slider{width: 90%;}}
+@media(max-width:768px){main{width: 100%;display: none;}}
+

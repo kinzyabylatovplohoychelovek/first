@@ -1,0 +1,50 @@
+@font-face {
+        font-family: 'Monserrat';
+        src: url('../fonts/montserrat/static/Montserrat-Regular.ttf');
+        font-weight: normal;}
+body{background-color: #601c0f;}
+.menu{  display: flex;
+        list-style: none;}
+        li{margin: auto;}
+            a{  font-family: 'Monserrat';
+                color: #FFDC9C;
+                text-decoration: none;}
+            a:hover{color: #FFDC9C;}
+h1{     font-family: 'Monserrat';
+        color: #FFDC9C;
+        text-align: center;}
+h2{     font-family: 'Monserrat';
+        color: #FFDC9C;}
+.punkts{display: flex;
+        flex-wrap: wrap;
+        justify-content: center;}
+.punkt{ margin: 5px;
+        width: 365px;
+        color: #EBEBEB;
+        border-radius: 10px;
+        border: 1px solid #FFDC9C;;}
+        .punkt img{     width: 100%;
+                        height: 300px;
+                        border-radius: 10px 10px 0px 0px;}
+                        .punkt h3{font-family: 'Monserrat';
+                                  text-align: center;
+                                  color: #FFDC9C;
+                                  height: 70px;}
+                        .punkt h6{font-family: 'Monserrat';
+                                  overflow: hidden;
+                                  color: #FFDC9C;
+                                  height: 25px;
+                                  margin: 15px;}
+                        .punkt p{font-family: 'Monserrat';
+                                 margin: 10px;
+                                 color: #FFDC9C;}
+                        .punkt button{font-family: 'Monserrat';
+                                      margin: 10px;}
+.tovar{display: flex;}
+        .tovar img{width: 720px;
+                   height: 510px;}
+.text{margin: 70px;}
+        @media(max-width:768px){.punkt{width: 360px;}}
+
+
+        

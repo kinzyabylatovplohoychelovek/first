@@ -1,0 +1,4 @@
+2022-11-10T12:24:17.124245Z 0 [System] [MY-010116] [Server] c:\users\user\desktop\openserver\modules\database\MySQL-8.0\bin\mysqld.exe (mysqld 8.0.19) starting as process 14680
+2022-11-10T12:24:17.842803Z 0 [System] [MY-010931] [Server] c:\users\user\desktop\openserver\modules\database\MySQL-8.0\bin\mysqld.exe: ready for connections. Version: '8.0.19'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2022-11-10T12:41:21.754454Z 0 [System] [MY-013105] [Server] c:\users\user\desktop\openserver\modules\database\MySQL-8.0\bin\mysqld.exe: Normal shutdown.
+2022-11-10T12:41:23.023498Z 0 [System] [MY-010910] [Server] c:\users\user\desktop\openserver\modules\database\MySQL-8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.19)  MySQL Community Server - GPL.
